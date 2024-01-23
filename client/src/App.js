@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Events from './components/Events';
 import Contact from './components/Contact';
-//add others and modify above
+//add and modify other codes above and below
 
 const App=()=>{
   return(
